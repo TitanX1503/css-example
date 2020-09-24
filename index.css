@@ -1,0 +1,147 @@
+body
+{
+    background-color: black;
+
+    
+}
+
+h1
+{
+    color: darkorange;
+
+    margin-left: 500px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4
+{
+    color: darkorange;
+
+    margin-left: 375px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.a /*half life*/
+{
+    color: darkorange;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.a
+{
+    color: orangered;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+p.b /*counter strike*/
+{
+    color: blue;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.b
+{
+    color: darkblue;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+p.c /*Portal*/
+{
+    color: deepskyblue;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.c
+{
+    color: orangered;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.c1
+{
+    color: blue;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+p.d /*tf2*/
+{
+    color: red;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.d1
+{
+    color: crimson;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+h2.d
+{
+    color: lightseagreen;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+p.e  /*L4D*/
+{
+    color: darkgreen;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+h2.e
+{
+    color: green;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-align: center;
+}
+
+img
+{
+    margin-left: 500px;
+}
+
+a
+{
+    align-content: center;
+}
+
+a
+{
+    color: fuchsia;
+}
+
